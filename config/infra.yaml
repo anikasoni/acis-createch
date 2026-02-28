@@ -1,0 +1,11 @@
+project_type: Infrastructure
+strength_threshold_mpa: 20.0       # Hard constraint — cannot demould below this
+target_cycle_hours: 18.0
+allowed_curing: [ambient, polythene_wrap, wet_burlap]
+mold_count: 50
+beds_available: 10
+labor_cost_per_hour: 450           # INR
+energy_cost_per_kwh: 8.0
+mold_holding_cost_per_hour: 200
+capex_amort_per_cycle: 150
+throughput_value_per_hour: 800     # Schedule penalty base rate

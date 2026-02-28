@@ -1,0 +1,11 @@
+# project_type: Building
+strength_threshold_mpa: 15.0
+target_cycle_hours: 12.0
+allowed_curing: [ambient, polythene_wrap, wet_burlap, steam, heated_enclosure]
+mold_count: 50
+beds_available: 10
+labor_cost_per_hour: 450
+energy_cost_per_kwh: 8.0
+mold_holding_cost_per_hour: 200
+capex_amort_per_cycle: 150
+throughput_value_per_hour: 800

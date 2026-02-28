@@ -1,0 +1,9 @@
+acis/
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+__pycache__/
+.DS_Store
+audit/audit_log.db
+*.dll
